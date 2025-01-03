@@ -36,7 +36,7 @@ different input serial data patterns and observe the timing diagrams.
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: Sanjit A RegisterNumber: 24005054
+Developed by:A.yogesh kumar  RegisterNumber: 24003226
 
 ![image](https://github.com/user-attachments/assets/3444cc48-197a-4502-bd47-0b264d0f33bd)
 
